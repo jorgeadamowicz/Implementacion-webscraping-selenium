@@ -2,7 +2,7 @@
 
 ## Descripción y referencias a trabajos previos
 En este proyecto se pone en práctica el uso de **Selenium** para realizar **web scraping** en sitios web dinámicos. Y es la continuación del trabajo previo, donde realizamos scraping de sitios estáticos. A diferencia de BeautifulSoup, que se usa principalmente para páginas estáticas, Selenium permite interactuar con sitios que cargan contenido de forma asincrónica mediante JavaScript. 
-Puedes ver el trabajo previo aquí: [Repositorio de Web Scraping con BeautifulSoup](https://github.com/tu-usuario/webscraping-beautifulsoup) 
+Puedes ver el trabajo previo aquí: [Repositorio de Web Scraping con BeautifulSoup](https://github.com/jorgeadamowicz/implementacion_web_scraping)
 
 En esta práctica se exploró cómo:
 - Acceder a elementos web utilizando distintos selectores de Selenium.
